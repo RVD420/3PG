@@ -297,7 +297,7 @@ http://p1.iptvrocket.tv/live/174174187829/174174187829/416.ts
 rtmp://46.4.25.213/live-ann7/ann7-hi.stream
 #EXTINF:-1 tvg-id="11163" tvg-name="Spike HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1620.png" group-title="Entertainments",Spike TV HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/292.ts
-#EXTINF:-1 tvg-id="10153" tvg-name="tru TV HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/987.png" group-title="Entertainments",Tru TV East HD
+#EXTINF:-1 tvg-id="10153" tvg-name="truTV" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/987.png" group-title="Entertainments",Tru TV East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/219.ts
 #EXTINF:-1 tvg-id="91096" tvg-name="WGNA" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/989.png" group-title="Entertainments",WGN America HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/220.ts
@@ -345,7 +345,7 @@ http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/pl
 http://p1.iptvrocket.tv/live/174174187829/174174187829/301.ts
 #EXTINF:-1 tvg-id="59368" tvg-name="HBO 2 HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/28.png" group-title="Cinema",HBO 2 East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/12.ts
-#EXTINF:-1 tvg-id="10243" tvg-name="HBO Sig D" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/545.png" group-title="Cinema",HBO Signature East HD
+#EXTINF:-1 tvg-id="10241" tvg-name="HBO Sig HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/545.png" group-title="Cinema",HBO Signature East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/128.ts
 #EXTINF:-1 tvg-id="19566" tvg-name="HBO HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1777.png" group-title="Cinema",HBO West HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/302.ts
