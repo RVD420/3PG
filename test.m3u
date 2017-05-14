@@ -55,7 +55,7 @@ http://p1.iptvrocket.tv/live/174174187829/174174187829/285.ts
 http://p1.iptvrocket.tv/live/174174187829/174174187829/295.ts
 #EXTINF:-1 tvg-id="52335" tvg-name="5 USA" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1431.png" group-title="Entertainments",5 USA
 http://p1.iptvrocket.tv/live/174174187829/174174187829/284.ts
-#EXTINF:-1 tvg-id="11207" tvg-name="USA HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/20.png" group-title="Entertainments",USA Network HD
+#EXTINF:-1 tvg-id="11207" tvg-name="USA" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/20.png" group-title="Entertainments",USA Network HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/5.ts
 #EXTINF:-1 tvg-id="16123" tvg-name="TV Land" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3117.png" group-title="Entertainments",TV Land HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/360.ts
