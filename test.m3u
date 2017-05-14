@@ -55,15 +55,15 @@ http://p1.iptvrocket.tv/live/174174187829/174174187829/285.ts
 http://p1.iptvrocket.tv/live/174174187829/174174187829/295.ts
 #EXTINF:-1 tvg-id="52335" tvg-name="5 USA" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1431.png" group-title="Entertainments",5 USA
 http://p1.iptvrocket.tv/live/174174187829/174174187829/284.ts
-#EXTINF:-1 tvg-id="11207" tvg-name="USA Network HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/20.png" group-title="Entertainments",USA Network HD
+#EXTINF:-1 tvg-id="11207" tvg-name="USA HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/20.png" group-title="Entertainments",USA Network HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/5.ts
-#EXTINF:-1 tvg-id="16123" tvg-name="TV Land HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3117.png" group-title="Entertainments",TV Land HD
+#EXTINF:-1 tvg-id="16123" tvg-name="TV Land" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3117.png" group-title="Entertainments",TV Land HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/360.ts
-#EXTINF:-1 tvg-id="10149" tvg-name="Comedy Central East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/34.png" group-title="Entertainments",Comedy Central East HD
+#EXTINF:-1 tvg-id="10149" tvg-name="Comedy HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/34.png" group-title="Entertainments",Comedy Central East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/17.ts
-#EXTINF:-1 tvg-id="10918" tvg-name="Lifetime East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/543.png" group-title="Entertainments",Lifetime East HD
+#EXTINF:-1 tvg-id="10918" tvg-name="LifetimeHD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/543.png" group-title="Entertainments",Lifetime East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/127.ts
-#EXTINF:-1 tvg-id="18480" tvg-name="Lifetime Movie Network HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3524.png" group-title="Entertainments",Lifetime Movie Network HD
+#EXTINF:-1 tvg-id="18480" tvg-name="LMN HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3524.png" group-title="Entertainments",Lifetime Movie Network HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/391.ts
 #EXTINF:-1 tvg-id="" tvg-name="True Drama" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1437.png" group-title="Entertainments",True Drama
 http://p1.iptvrocket.tv/live/174174187829/174174187829/286.ts
@@ -75,13 +75,13 @@ http://p1.iptvrocket.tv/live/174174187829/174174187829/10.ts
 http://p1.iptvrocket.tv/live/174174187829/174174187829/368.ts
 #EXTINF:-1 tvg-id="10989" tvg-name="E! HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1203.png" group-title="Entertainments",E! HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/234.ts
-#EXTINF:-1 tvg-id="14902" tvg-name="HGTV East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/2507.png" group-title="Entertainments",HGTV East HD
+#EXTINF:-1 tvg-id="14902" tvg-name="HGTV HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/2507.png" group-title="Entertainments",HGTV East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/336.ts
-#EXTINF:-1 tvg-id="18544" tvg-name="DIY Network USA HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/45.png" group-title="Entertainments",DIY Network USA HD
+#EXTINF:-1 tvg-id="18544" tvg-name="DIYHD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/45.png" group-title="Entertainments",DIY Network USA HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/27.ts
 #EXTINF:-1 tvg-id="82575" tvg-name="Drama" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1439.png" group-title="Entertainments",Drama
 http://p1.iptvrocket.tv/live/174174187829/174174187829/287.ts
-#EXTINF:-1 tvg-id="10036" tvg-name="A&E East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/583.png" group-title="Entertainments",A&E East HD
+#EXTINF:-1 tvg-id="10036" tvg-name="A&amp;E HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/583.png" group-title="Entertainments",A&E East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/146.ts
 #EXTINF:-1 tvg-id="26772" tvg-name="H2" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1471.png" group-title="Entertainments",H2
 http://p1.iptvrocket.tv/live/174174187829/174174187829/289.ts
@@ -97,37 +97,37 @@ http://p1.iptvrocket.tv/live/174174187829/174174187829/47.ts
 http://p1.iptvrocket.tv/live/174174187829/174174187829/296.ts
 #EXTINF:-1 tvg-id="52199" tvg-name="Reelz Channel HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/885.png" group-title="Entertainments",Reelz Channel HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/208.ts
-#EXTINF:-1 tvg-id="21484" tvg-name="Oxygen HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/33.png" group-title="Entertainments",Oxygen HD
+#EXTINF:-1 tvg-id="21484" tvg-name="Oxygen" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/33.png" group-title="Entertainments",Oxygen HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/16.ts
 #EXTINF:-1 tvg-id="16409" tvg-name="WE TV" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/30.png" group-title="Entertainments",WE TV
 http://p1.iptvrocket.tv/live/174174187829/174174187829/14.ts
-#EXTINF:-1 tvg-id="10057" tvg-name="Bravo East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1870.png" group-title="Entertainments",Bravo East HD
+#EXTINF:-1 tvg-id="10057" tvg-name="Bravo HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1870.png" group-title="Entertainments",Bravo East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/318.ts
 #EXTINF:-1 tvg-id="73970" tvg-name="CBS Action" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1259.png" group-title="Entertainments",CBS Action
 http://p1.iptvrocket.tv/live/174174187829/174174187829/245.ts
-#EXTINF:-1 tvg-id="10021" tvg-name="AMC East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/663.png" group-title="Entertainments",AMC East HD
+#EXTINF:-1 tvg-id="10021" tvg-name="AMC HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/663.png" group-title="Entertainments",AMC East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/163.ts
-#EXTINF:-1 tvg-id="12852" tvg-name="TCM US HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/675.png" group-title="Cinema",TCM US HD
+#EXTINF:-1 tvg-id="12852" tvg-name="TCMHD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/675.png" group-title="Cinema",TCM US HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/169.ts
 #EXTINF:-1 tvg-id="35484" tvg-name="FOX" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/247.png" group-title="Entertainments",FOX
 http://p1.iptvrocket.tv/live/174174187829/174174187829/107.ts
-#EXTINF:-1 tvg-id="64492" tvg-name="BBC America HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/39.png" group-title="Cinema",BBC America HD
+#EXTINF:-1 tvg-id="64492" tvg-name="BBCA HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/39.png" group-title="Cinema",BBC America HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/21.ts
-#EXTINF:-1 tvg-id="14321" tvg-name="FX East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/585.png" group-title="Entertainments",FX East HD
+#EXTINF:-1 tvg-id="14321" tvg-name="FX HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/585.png" group-title="Entertainments",FX East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/147.ts
 #EXTINF:-1 tvg-id="89888" tvg-name="itv ENCORE +1" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/48.png" group-title="Entertainments",itv ENCORE +1
 http://p1.iptvrocket.tv/live/174174187829/174174187829/29.ts
 #EXTINF:-1 tvg-id="11164" tvg-name="TNT HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/565.png" group-title="Entertainments",TNT HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/137.ts
-#EXTINF:-1 tvg-id="11867" tvg-name="TBS East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/553.png" group-title="Entertainments",TBS East HD
+#EXTINF:-1 tvg-id="11867" tvg-name="TBS HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/553.png" group-title="Entertainments",TBS East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/131.ts
-#EXTINF:-1 tvg-id="10179" tvg-name="ESPN US HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/549.png" group-title="Sports",ESPN US HD
+#EXTINF:-1 tvg-id="10179" tvg-name="ESPN HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/549.png" group-title="Sports",ESPN US HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/129.ts
 #EXTINF:-1 tvg-id="45654" tvg-name="ESPNU HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/567.png" group-title="Sports",ESPNU HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/138.ts
-#EXTINF:-1 tvg-id="16485" tvg-name="ESPNews US HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1213.png" group-title="Sports",ESPNews US HD
+#EXTINF:-1 tvg-id="16485" tvg-name="ESPNews HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1213.png" group-title="Sports",ESPNews US HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/239.ts
-#EXTINF:-1 tvg-id="12444" tvg-name="ESPN 2 US HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1215.png" group-title="Sports",ESPN 2 US HD
+#EXTINF:-1 tvg-id="12444" tvg-name="ESPN 2 HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1215.png" group-title="Sports",ESPN 2 US HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/240.ts
 #EXTINF:-1 tvg-id="20643" tvg-name="SKY Sports News" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/54.png" group-title="Sports",SKY Sports News
 http://p1.iptvrocket.tv/live/174174187829/174174187829/31.ts
@@ -141,13 +141,13 @@ http://p1.iptvrocket.tv/live/174174187829/174174187829/377.ts
 http://p1.iptvrocket.tv/live/174174187829/174174187829/378.ts
 #EXTINF:-1 tvg-id="90124" tvg-name="TSN 5" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3317.png" group-title="Sports",TSN 5
 http://p1.iptvrocket.tv/live/174174187829/174174187829/379.ts
-#EXTINF:-1 tvg-id="82547" tvg-name="Fox Sports 1 US HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/46.png" group-title="Sports",Fox Sports 1 US HD
+#EXTINF:-1 tvg-id="82547" tvg-name="FS1HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/46.png" group-title="Sports",Fox Sports 1 US HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/28.ts
-#EXTINF:-1 tvg-id="33178" tvg-name="Fox Sports 2 US HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/673.png" group-title="Sports",Fox Sports 2 US HD
+#EXTINF:-1 tvg-id="33178" tvg-name="FS2HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/673.png" group-title="Sports",Fox Sports 2 US HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/168.ts
 #EXTINF:-1 tvg-id="62081" tvg-name="MLB Network HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/40.png" group-title="Sports",MLB Network HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/22.ts
-#EXTINF:-1 tvg-id="34710" tvg-name="NFL Network HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/591.png" group-title="Sports",NFL Network HD
+#EXTINF:-1 tvg-id="34710" tvg-name="NFL HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/591.png" group-title="Sports",NFL Network HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/149.ts
 #EXTINF:-1 tvg-id="83162" tvg-name="UFC Network HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3257.png" group-title="Sports",UFC Network HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/367.ts
@@ -163,7 +163,7 @@ http://p1.iptvrocket.tv/live/174174187829/174174187829/335.ts
 http://p1.iptvrocket.tv/live/174174187829/174174187829/395.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAV tv" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3242.png" group-title="Sports",MAV tv
 http://p1.iptvrocket.tv/live/174174187829/174174187829/366.ts
-#EXTINF:-1 tvg-id="" tvg-name="PAC 12 Networks" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3833.png" group-title="Sports",PAC 12 Networks
+#EXTINF:-1 tvg-id="" tvg-name="PAC12HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3833.png" group-title="Sports",PAC 12 Networks
 http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PAC 12 Arizona" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3834.png" group-title="Sports",PAC 12 Arizona
 http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
@@ -177,35 +177,35 @@ http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PAC 12 Washington" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3839.png" group-title="Sports",PAC 12 Washington
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
-#EXTINF:-1 tvg-id="10171" tvg-name="Disney Channel East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/21.png" group-title="Kids",Disney Channel East HD
+#EXTINF:-1 tvg-id="10171" tvg-name="Disney HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/21.png" group-title="Kids",Disney Channel East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/6.ts
-#EXTINF:-1 tvg-id="74796" tvg-name="Disney Jr HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1832.png" group-title="Kids",Disney Jr HD
+#EXTINF:-1 tvg-id="74796" tvg-name="Disney Jr" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1832.png" group-title="Kids",Disney Jr HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/311.ts
-#EXTINF:-1 tvg-id="18279" tvg-name="Disney XD HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1840.png" group-title="Kids",Disney XD HD
+#EXTINF:-1 tvg-id="18279" tvg-name="Disney XD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1840.png" group-title="Kids",Disney XD HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/313.ts
-#EXTINF:-1 tvg-id="21883" tvg-name="Boomerang USA HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1885.png" group-title="Kids",Boomerang USA HD
+#EXTINF:-1 tvg-id="21883" tvg-name="Boomerang" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1885.png" group-title="Kids",Boomerang USA HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/322.ts
-#EXTINF:-1 tvg-id="12131" tvg-name="Cartoon Network" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/2509.png" group-title="Kids",Cartoon Network
+#EXTINF:-1 tvg-id="12131" tvg-name="Cartoon HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/2509.png" group-title="Kids",Cartoon Network
 http://p1.iptvrocket.tv/live/174174187829/174174187829/337.ts
-#EXTINF:-1 tvg-id="11006" tvg-name="Nickelodeon East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/973.png" group-title="Kids",Nickelodeon East HD
+#EXTINF:-1 tvg-id="11006" tvg-name="Nick HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/973.png" group-title="Kids",Nickelodeon East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/218.ts
-#EXTINF:-1 tvg-id="19211" tvg-name="Nick Jr HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1852.png" group-title="Kids",Nick Jr HD
+#EXTINF:-1 tvg-id="19211" tvg-name="Nick Jr" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1852.png" group-title="Kids",Nick Jr HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/315.ts
 #EXTINF:-1 tvg-id="59036" tvg-name="Teen Nick" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1857.png" group-title="Kids",Teen Nick
 http://p1.iptvrocket.tv/live/174174187829/174174187829/316.ts
-#EXTINF:-1 tvg-id="10093" tvg-name="FREEFORM HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1835.png" group-title="Entertainments",FREEFORM HD
+#EXTINF:-1 tvg-id="10093" tvg-name="FREFMHD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1835.png" group-title="Entertainments",FREEFORM HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/312.ts
-#EXTINF:-1 tvg-id="16618" tvg-name="Discovery Family" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1847.png" group-title="Kids",Discovery Family
+#EXTINF:-1 tvg-id="16618" tvg-name="DFCHD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1847.png" group-title="Kids",Discovery Family
 http://p1.iptvrocket.tv/live/174174187829/174174187829/314.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Life Channel" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3526.png" group-title="Science",Discovery Life Channel
 http://p1.iptvrocket.tv/live/174174187829/174174187829/392.ts
-#EXTINF:-1 tvg-id="17444" tvg-name="Discovery Channel USA HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/4.png" group-title="Science",Discovery Channel USA HD
+#EXTINF:-1 tvg-id="17444" tvg-name="Dscvry HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/4.png" group-title="Science",Discovery Channel USA HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/1.ts
-#EXTINF:-1 tvg-id="57394" tvg-name="Animal Planet HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1825.png" group-title="Culture",Animal Planet HD
+#EXTINF:-1 tvg-id="57394" tvg-name="Animal HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1825.png" group-title="Culture",Animal Planet HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/309.ts
-#EXTINF:-1 tvg-id="23305" tvg-name="Nat Geo Wild HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1810.png" group-title="Culture",Nat Geo Wild HD
+#EXTINF:-1 tvg-id="23305" tvg-name="NGeoWildHD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1810.png" group-title="Culture",Nat Geo Wild HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/306.ts
-#EXTINF:-1 tvg-id="24959" tvg-name="National Geographic Channel HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/897.png" group-title="Culture",National Geographic Channel HD
+#EXTINF:-1 tvg-id="24959" tvg-name="NatGeo HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/897.png" group-title="Culture",National Geographic Channel HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/209.ts
 #EXTINF:-1 tvg-id="" tvg-name="Yesterday" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/64.png" group-title="Entertainments",Yesterday
 http://p1.iptvrocket.tv/live/174174187829/174174187829/34.ts
@@ -217,11 +217,11 @@ http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index2500.m3u8
 http://p1.iptvrocket.tv/live/174174187829/174174187829/32.ts
 #EXTINF:-1 tvg-id="58793" tvg-name="Dmax" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1755.png" group-title="Culture",Dmax
 http://p1.iptvrocket.tv/live/174174187829/174174187829/297.ts
-#EXTINF:-1 tvg-id="16615" tvg-name="Investigation Discovery HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1217.png" group-title="Science",Investigation Discovery HD
+#EXTINF:-1 tvg-id="16615" tvg-name="ID HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1217.png" group-title="Science",Investigation Discovery HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/241.ts
-#EXTINF:-1 tvg-id="57390" tvg-name="Science Channel HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1295.png" group-title="Science",Science Channel HD
+#EXTINF:-1 tvg-id="57390" tvg-name="Science HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1295.png" group-title="Science",Science Channel HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/261.ts
-#EXTINF:-1 tvg-id="16617" tvg-name="Destination America HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1817.png" group-title="Culture",Destination America HD
+#EXTINF:-1 tvg-id="16617" tvg-name="DESTHD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1817.png" group-title="Culture",Destination America HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/308.ts
 #EXTINF:-1 tvg-id="18284" tvg-name="American Heroes Channel" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1865.png" group-title="Culture",American Heroes Channel
 http://p1.iptvrocket.tv/live/174174187829/174174187829/317.ts
@@ -233,35 +233,35 @@ http://p1.iptvrocket.tv/live/174174187829/174174187829/244.ts
 http://p1.iptvrocket.tv/live/174174187829/174174187829/246.ts
 #EXTINF:-1 tvg-id="55205" tvg-name="Chiller TV" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3135.png" group-title="Entertainments",Chiller TV
 http://p1.iptvrocket.tv/live/174174187829/174174187829/362.ts
-#EXTINF:-1 tvg-id="58646" tvg-name="CNN US HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/10.png" group-title="Information",CNN US HD
+#EXTINF:-1 tvg-id="58646" tvg-name="CNN HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/10.png" group-title="Information",CNN US HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/2.ts
-#EXTINF:-1 tvg-id="" tvg-name="Headline News HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3528.png" group-title="Information",Headline News HD
+#EXTINF:-1 tvg-id="" tvg-name="HLN HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3528.png" group-title="Information",Headline News HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/394.ts
-#EXTINF:-1 tvg-id="20711" tvg-name="Bloomberg TV US" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/971.png" group-title="Business",Bloomberg TV US
+#EXTINF:-1 tvg-id="20711" tvg-name="Blmbrg HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/971.png" group-title="Business",Bloomberg TV US
 http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3617.png" group-title="Information",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="RT US" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3637.png" group-title="Information",RT US
 http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
-#EXTINF:-1 tvg-id="60179" tvg-name="Fox News Channel HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/22.png" group-title="Information",Fox News Channel HD
+#EXTINF:-1 tvg-id="60179" tvg-name="FoxNews HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/22.png" group-title="Information",Fox News Channel HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/7.ts
-#EXTINF:-1 tvg-id="58649" tvg-name="Fox Business HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3112.png" group-title="Business",Fox Business HD
+#EXTINF:-1 tvg-id="58649" tvg-name="FBN HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3112.png" group-title="Business",Fox Business HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/359.ts
 #EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1087.png" group-title="Information",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-id="10139" tvg-name="CNBC US HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1765.png" group-title="Information",CNBC US HD
+#EXTINF:-1 tvg-id="10139" tvg-name="CNBC HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1765.png" group-title="Information",CNBC US HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/299.ts
 #EXTINF:-1 tvg-id="16300" tvg-name="MSNBC HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1770.png" group-title="Information",MSNBC HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/300.ts
 #EXTINF:-1 tvg-id="" tvg-name="WGN News" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3597.png" group-title="Information",WGN News
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="C-Span" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3620.png" group-title="Information",C-Span
+#EXTINF:-1 tvg-id="" tvg-name="CSPAN" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3620.png" group-title="Information",C-Span
 http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="C-Span  Book TV" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3622.png" group-title="Information",C-Span  Book TV
+#EXTINF:-1 tvg-id="" tvg-name="CSPAN2" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3622.png" group-title="Information",C-Span  Book TV
 http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="C-Span American History TV" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3621.png" group-title="Information",C-Span American History TV
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="58812" tvg-name="The Weather Channel" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/12.png" group-title="Information",The Weather Channel
+#EXTINF:-1 tvg-id="58812" tvg-name="Weather" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/12.png" group-title="Information",The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/index_800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="72422" tvg-name="WeatherNation" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1894.png" group-title="Information",WeatherNation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/protocol/http/format/applehttp/a.m3u8
@@ -283,7 +283,7 @@ http://p1.iptvrocket.tv/live/174174187829/174174187829/298.ts
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RT International" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/62.png" group-title="Information",RT International
 http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index2500.m3u8
-#EXTINF:-1 tvg-id="58685" tvg-name="France 24" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/419.png" group-title="Information",France 24
+#EXTINF:-1 tvg-id="58685" tvg-name="FRNC24" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/419.png" group-title="Information",France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Press TV" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1959.png" group-title="Information",Press TV
 http://178.32.255.199:1935/live/ptven/playlist.m3u8
@@ -295,21 +295,21 @@ http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index129
 http://p1.iptvrocket.tv/live/174174187829/174174187829/416.ts
 #EXTINF:-1 tvg-id="" tvg-name="Africa News Network" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1964.png" group-title="Information",Africa News Network
 rtmp://46.4.25.213/live-ann7/ann7-hi.stream
-#EXTINF:-1 tvg-id="11163" tvg-name="Spike TV HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1620.png" group-title="Entertainments",Spike TV HD
+#EXTINF:-1 tvg-id="11163" tvg-name="Spike HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1620.png" group-title="Entertainments",Spike TV HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/292.ts
-#EXTINF:-1 tvg-id="10153" tvg-name="Tru TV East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/987.png" group-title="Entertainments",Tru TV East HD
+#EXTINF:-1 tvg-id="10153" tvg-name="tru TV HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/987.png" group-title="Entertainments",Tru TV East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/219.ts
-#EXTINF:-1 tvg-id="91096" tvg-name="WGN America HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/989.png" group-title="Entertainments",WGN America HD
+#EXTINF:-1 tvg-id="91096" tvg-name="WGNA" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/989.png" group-title="Entertainments",WGN America HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/220.ts
 #EXTINF:-1 tvg-id="17927" tvg-name="FXX East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1201.png" group-title="Entertainments",FXX East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/233.ts
-#EXTINF:-1 tvg-id="34763" tvg-name="Universal Channel" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3675.png" group-title="Entertainments",Universal Channel
+#EXTINF:-1 tvg-id="34763" tvg-name="UHD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3675.png" group-title="Entertainments",Universal Channel
 http://p1.iptvrocket.tv/live/174174187829/174174187829/405.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ovation HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1209.png" group-title="Entertainments",Ovation HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/237.ts
 #EXTINF:-1 tvg-id="61469" tvg-name="Crime & Investigation Network HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/467.png" group-title="Science",Crime & Investigation Network HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/124.ts
-#EXTINF:-1 tvg-id="53058" tvg-name="ION Television East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1882.png" group-title="Entertainments",ION Television East HD
+#EXTINF:-1 tvg-id="53058" tvg-name="IONDTV" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1882.png" group-title="Entertainments",ION Television East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/321.ts
 #EXTINF:-1 tvg-id="74479" tvg-name="Deutsche Welle" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1097.png" group-title="Information",Deutsche Welle
 http://metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
@@ -319,7 +319,7 @@ http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="58320" tvg-name="NewsmaxTV" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3642.png" group-title="Information",NewsmaxTV
 http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="12553" tvg-name="NASA TV" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3639.png" group-title="Science",NASA TV
+#EXTINF:-1 tvg-id="12553" tvg-name="NASA" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3639.png" group-title="Science",NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music Videos 1" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/501.png" group-title="Music",Music Videos 1
 http://djing.com/tv/underground.m3u8
@@ -341,69 +341,69 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music Videos 10" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/529.png" group-title="Music",Music Videos 10
 http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
-#EXTINF:-1 tvg-id="19548" tvg-name="HBO East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1775.png" group-title="Cinema",HBO East HD
+#EXTINF:-1 tvg-id="19548" tvg-name="HBO HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1775.png" group-title="Cinema",HBO East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/301.ts
-#EXTINF:-1 tvg-id="59368" tvg-name="HBO 2 East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/28.png" group-title="Cinema",HBO 2 East HD
+#EXTINF:-1 tvg-id="59368" tvg-name="HBO 2 HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/28.png" group-title="Cinema",HBO 2 East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/12.ts
-#EXTINF:-1 tvg-id="10243" tvg-name="HBO Signature East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/545.png" group-title="Cinema",HBO Signature East HD
+#EXTINF:-1 tvg-id="10243" tvg-name="HBO Sig D" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/545.png" group-title="Cinema",HBO Signature East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/128.ts
-#EXTINF:-1 tvg-id="19566" tvg-name="HBO West HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1777.png" group-title="Cinema",HBO West HD
+#EXTINF:-1 tvg-id="19566" tvg-name="HBO HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1777.png" group-title="Cinema",HBO West HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/302.ts
-#EXTINF:-1 tvg-id="59368" tvg-name="HBO 2 West HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/665.png" group-title="Cinema",HBO 2 West HD
+#EXTINF:-1 tvg-id="59368" tvg-name="HBO 2" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/665.png" group-title="Cinema",HBO 2 West HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/164.ts
-#EXTINF:-1 tvg-id="16585" tvg-name="HBO Family East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1625.png" group-title="Cinema",HBO Family East HD
+#EXTINF:-1 tvg-id="16585" tvg-name="HBOFmly HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1625.png" group-title="Cinema",HBO Family East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/293.ts
-#EXTINF:-1 tvg-id="18429" tvg-name="HBO Comedy East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/589.png" group-title="Cinema",HBO Comedy East HD
+#EXTINF:-1 tvg-id="18429" tvg-name="HBOComedy" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/589.png" group-title="Cinema",HBO Comedy East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/148.ts
-#EXTINF:-1 tvg-id="59845" tvg-name="HBO Zone HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/551.png" group-title="Cinema",HBO Zone HD
+#EXTINF:-1 tvg-id="59845" tvg-name="HBOZone HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/551.png" group-title="Cinema",HBO Zone HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/130.ts
-#EXTINF:-1 tvg-id="10120" tvg-name="Cinemax East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/539.png" group-title="Cinema",Cinemax East HD
+#EXTINF:-1 tvg-id="10120" tvg-name="Cinemax HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/539.png" group-title="Cinema",Cinemax East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/125.ts
-#EXTINF:-1 tvg-id="12508" tvg-name="Cinemax West HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/541.png" group-title="Cinema",Cinemax West HD
+#EXTINF:-1 tvg-id="12508" tvg-name="Cinemax HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/541.png" group-title="Cinema",Cinemax West HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/126.ts
-#EXTINF:-1 tvg-id="18433" tvg-name="ActionMax East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1199.png" group-title="Cinema",ActionMax East HD
+#EXTINF:-1 tvg-id="18433" tvg-name="ActionMAX" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1199.png" group-title="Cinema",ActionMax East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/232.ts
-#EXTINF:-1 tvg-id="25620" tvg-name="5 StarMax HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1875.png" group-title="Cinema",5 StarMax HD
+#EXTINF:-1 tvg-id="25620" tvg-name="5MAX HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1875.png" group-title="Cinema",5 StarMax HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/319.ts
 #EXTINF:-1 tvg-id="" tvg-name="ThrillerMax East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1297.png" group-title="Cinema",ThrillerMax East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/262.ts
-#EXTINF:-1 tvg-id="11115" tvg-name="Showtime East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/15.png" group-title="Cinema",Showtime East HD
+#EXTINF:-1 tvg-id="11115" tvg-name="Showtime HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/15.png" group-title="Cinema",Showtime East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/3.ts
-#EXTINF:-1 tvg-id="11117" tvg-name="Showtime West HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/555.png" group-title="Cinema",Showtime West HD
+#EXTINF:-1 tvg-id="11117" tvg-name="319 ShowtimeHD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/555.png" group-title="Cinema",Showtime West HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/132.ts
-#EXTINF:-1 tvg-id="" tvg-name="Showtime 2 East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/557.png" group-title="Cinema",Showtime 2 East HD
+#EXTINF:-1 tvg-id="" tvg-name="SHO 2HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/557.png" group-title="Cinema",Showtime 2 East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/133.ts
-#EXTINF:-1 tvg-id="16153" tvg-name="Showtime Showcase East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/659.png" group-title="Cinema",Showtime Showcase East HD
+#EXTINF:-1 tvg-id="16153" tvg-name="Showcase" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/659.png" group-title="Cinema",Showtime Showcase East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/162.ts
-#EXTINF:-1 tvg-id="18086" tvg-name="Showtime Extreme East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/559.png" group-title="Cinema",Showtime Extreme East HD
+#EXTINF:-1 tvg-id="18086" tvg-name="ShoExtreme" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/559.png" group-title="Cinema",Showtime Extreme East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/134.ts
-#EXTINF:-1 tvg-id="20622" tvg-name="Showtime Beyond East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/561.png" group-title="Cinema",Showtime Beyond East HD
+#EXTINF:-1 tvg-id="20622" tvg-name="ShoBeyond" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/561.png" group-title="Cinema",Showtime Beyond East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/135.ts
 #EXTINF:-1 tvg-id="" tvg-name="Showtime Next HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/667.png" group-title="Cinema",Showtime Next HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/165.ts
-#EXTINF:-1 tvg-id="35329" tvg-name="The Movie Channel East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/24.png" group-title="Cinema",The Movie Channel East HD
+#EXTINF:-1 tvg-id="35329" tvg-name="TMC" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/24.png" group-title="Cinema",The Movie Channel East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/9.ts
-#EXTINF:-1 tvg-id="17663" tvg-name="The Movie Channel Xtra East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/563.png" group-title="Cinema",The Movie Channel Xtra East HD
+#EXTINF:-1 tvg-id="17663" tvg-name="TMC Extra" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/563.png" group-title="Cinema",The Movie Channel Xtra East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/136.ts
-#EXTINF:-1 tvg-id="10178" tvg-name="Encore East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/26.png" group-title="Cinema",Encore East HD
+#EXTINF:-1 tvg-id="10178" tvg-name="STZENHD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/26.png" group-title="Cinema",Encore East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/11.ts
-#EXTINF:-1 tvg-id="14765" tvg-name="Encore Westerns" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3152.png" group-title="Cinema",Encore Westerns
+#EXTINF:-1 tvg-id="14765" tvg-name="STZENWS" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3152.png" group-title="Cinema",Encore Westerns
 http://p1.iptvrocket.tv/live/174174187829/174174187829/363.ts
-#EXTINF:-1 tvg-id="14871" tvg-name="Encore Action East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1877.png" group-title="Cinema",Encore Action East HD
+#EXTINF:-1 tvg-id="14871" tvg-name="STZENAC" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1877.png" group-title="Cinema",Encore Action East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/320.ts
-#EXTINF:-1 tvg-id="34941" tvg-name="Starz East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/23.png" group-title="Cinema",Starz East HD
+#EXTINF:-1 tvg-id="34941" tvg-name="Starz HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/23.png" group-title="Cinema",Starz East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/8.ts
-#EXTINF:-1 tvg-id="12741" tvg-name="Starz West HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/569.png" group-title="Cinema",Starz West HD
+#EXTINF:-1 tvg-id="12741" tvg-name="351 Starz HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/569.png" group-title="Cinema",Starz West HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/139.ts
-#EXTINF:-1 tvg-id="16311" tvg-name="Starz Edge East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/571.png" group-title="Cinema",Starz Edge East HD
+#EXTINF:-1 tvg-id="16311" tvg-name="StrzEdge" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/571.png" group-title="Cinema",Starz Edge East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/140.ts
-#EXTINF:-1 tvg-id="19634" tvg-name="Starz Cinema East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/573.png" group-title="Cinema",Starz Cinema East HD
+#EXTINF:-1 tvg-id="19634" tvg-name="StrzCinm" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/573.png" group-title="Cinema",Starz Cinema East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/141.ts
 #EXTINF:-1 tvg-id="34901" tvg-name="Starz Comedy East" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/575.png" group-title="Cinema",Starz Comedy East
 http://p1.iptvrocket.tv/live/174174187829/174174187829/142.ts
-#EXTINF:-1 tvg-id="16833" tvg-name="Starz In Black East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/577.png" group-title="Cinema",Starz In Black East HD
+#EXTINF:-1 tvg-id="16833" tvg-name="StrzBlck" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/577.png" group-title="Cinema",Starz In Black East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/143.ts
-#EXTINF:-1 tvg-id="19635" tvg-name="Starz Kids & Family East HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/669.png" group-title="Kids",Starz Kids & Family East HD
+#EXTINF:-1 tvg-id="19635" tvg-name="StrzKids" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/669.png" group-title="Kids",Starz Kids & Family East HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/166.ts
 #EXTINF:-1 tvg-id="21107" tvg-name="SKY Premiere" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/66.png" group-title="Cinema",SKY Premiere
 http://p1.iptvrocket.tv/live/174174187829/174174187829/35.ts
@@ -497,9 +497,9 @@ http://p1.iptvrocket.tv/live/174174187829/174174187829/386.ts
 http://p1.iptvrocket.tv/live/174174187829/174174187829/384.ts
 #EXTINF:-1 tvg-id="61092" tvg-name="Fox Sports South HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3353.png" group-title="Sports",Fox Sports South HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/383.ts
-#EXTINF:-1 tvg-id="55433" tvg-name="MASN HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3393.png" group-title="Sports",MASN HD
+#EXTINF:-1 tvg-id="55433" tvg-name="MASNHD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3393.png" group-title="Sports",MASN HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/385.ts
-#EXTINF:-1 tvg-id="10996" tvg-name="New England Sports Network HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3433.png" group-title="Sports",New England Sports Network HD
+#EXTINF:-1 tvg-id="10996" tvg-name="NESNHD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3433.png" group-title="Sports",New England Sports Network HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/388.ts
 #EXTINF:-1 tvg-id="20789" tvg-name="Fox Sports Southwest HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/2722.png" group-title="Sports",Fox Sports Southwest HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/351.ts
@@ -513,17 +513,15 @@ http://p1.iptvrocket.tv/live/174174187829/174174187829/396.ts
 http://p1.iptvrocket.tv/live/174174187829/174174187829/231.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ultimate Events & Sports 2" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/1451.png" group-title="Sports",Ultimate Events & Sports 2
 http://p1.iptvrocket.tv/live/174174187829/174174187829/288.ts
-#EXTINF:-1 tvg-id="" tvg-name="Playboy TV Latin America" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/111.png" group-title="For Adults",Playboy TV Latin America
+#EXTINF:-1 tvg-id="" tvg-name="PLAYESP" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/111.png" group-title="For Adults",Playboy TV Latin America
 http://p1.iptvrocket.tv/live/174174187829/174174187829/50.ts
 #EXTINF:-1 tvg-id="47561" tvg-name="TV Hot HD" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/433.png" group-title="For Adults",TV Hot HD
 http://p1.iptvrocket.tv/live/174174187829/174174187829/122.ts
-#EXTINF:-1 tvg-id="" tvg-name="Manhandle XXX" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/3843.png" group-title="For Adults",Manhandle XXX
-http://VISA
-#EXTINF:-1 tvg-id="" tvg-name="Real" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/601.png" group-title="For Adults",Real
+#EXTINF:-1 tvg-id="" tvg-name="REALXTR" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/601.png" group-title="For Adults",Real
 http://p1.iptvrocket.tv/live/174174187829/174174187829/150.ts
 #EXTINF:-1 tvg-id="62629" tvg-name="Juicy" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/603.png" group-title="For Adults",Juicy
 http://p1.iptvrocket.tv/live/174174187829/174174187829/151.ts
-#EXTINF:-1 tvg-id="62681" tvg-name="Xtsy XXX" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/849.png" group-title="For Adults",Xtsy XXX
+#EXTINF:-1 tvg-id="62681" tvg-name="XTSY" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/849.png" group-title="For Adults",Xtsy XXX
 http://p1.iptvrocket.tv/live/174174187829/174174187829/194.ts
 #EXTINF:-1 tvg-id="47855" tvg-name="Venus" tvg-logo="http://content.iptvrocket.tv:88/stalker_portal/misc/logos/240/107.png" group-title="For Adults",Venus
 http://p1.iptvrocket.tv/live/174174187829/174174187829/48.ts
